@@ -18,6 +18,7 @@ dependencies:
   - pandera
   - missingno
   - pygam
+  - freecast = 2.13.3
   - pip:
       - cinemagoer
       - lxml
